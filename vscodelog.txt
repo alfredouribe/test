@@ -1,0 +1,20 @@
+start
+[  1761167877.690]: net init success
+[  1761167877.690]: 668|net_set_local_macaddr_by_card()|error: set [eth0]:mac failed:Device or resource busy
+udhcpc: started, v1.27.2
+udhcpc: sending discover
+udhcpc: sending select for 192.168.0.136
+udhcpc: lease of 192.168.0.136 obtained, lease time 172800
+deleting routers
+adding dns 192.168.0.111
+[INFO 2025-10-23 05:18:02.851]: Calling firmware endpoint
+[INFO 2025-10-23 05:18:03.452]: Trying to update from https://alfredouribe.github.io/test/hello1.0001.zip (MD5: d955a92fd332b45a0fba26430cf0a415)
+[INFO 2025-10-23 05:18:03.494]: download url:https://alfredouribe.github.io/test/hello1.0001.zip
+[INFO 2025-10-23 05:18:03.972]: download result:{"code":0,"status":200}
+[INFO 2025-10-23 05:18:03.995]: Updating
+[INFO 2025-10-23 05:18:27.932]: Reboot triggered by user.
+Device connection error, please reconnect
+
+
+
+{"filename": "https://alfredouribe.github.io/test/hello1.0001.zip","md5": "d955a92fd332b45a0fba26430cf0a415"}
